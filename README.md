@@ -35,7 +35,7 @@ $ pip install futures
  
 $ git clone https://github.com/TTermuxID/BruteFB
 
-$ cd clanara
+$ cd BruteFB
 
 $ python ryu.py
 
